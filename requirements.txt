@@ -1,0 +1,10 @@
+streamlit
+spacy
+pytrends
+textblob
+openai
+fpdf
+pandas
+scikit-learn
+matplotlib
+python-dotenv
