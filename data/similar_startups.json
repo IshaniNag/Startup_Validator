@@ -1,0 +1,145 @@
+{
+    "startups": [
+      {
+        "name": "EcoTrack",
+        "description": "An app to track and reduce your carbon footprint.",
+        "tags": ["environment", "carbon footprint", "sustainability"]
+      },
+      {
+        "name": "Greenify",
+        "description": "A platform for individuals to learn and act on climate change.",
+        "tags": ["environment", "climate change", "education"]
+      },
+      {
+        "name": "CarbonCutter",
+        "description": "A mobile app that helps you calculate and reduce your carbon emissions.",
+        "tags": ["environment", "carbon emissions", "sustainability"]
+      },
+      {
+        "name": "EcoSavvy",
+        "description": "A service to measure the environmental impact of your lifestyle.",
+        "tags": ["environment", "lifestyle", "sustainability"]
+      },
+      {
+        "name": "Wetpaint",
+        "description": "A platform for collaborative content creation and publishing.",
+        "tags": ["media", "content creation", "collaboration"]
+      },
+      {
+        "name": "Flektor",
+        "description": "A multimedia tool to create and share dynamic visual stories.",
+        "tags": ["media", "visual stories", "multimedia"]
+      },
+      {
+        "name": "There",
+        "description": "A virtual world for real-time social interaction and events.",
+        "tags": ["virtual reality", "social", "events"]
+      },
+      {
+        "name": "MYWEBBO",
+        "description": "A website builder tailored for small businesses and creatives.",
+        "tags": ["web development", "small business", "creatives"]
+      },
+      {
+        "name": "THE Movie Streamer",
+        "description": "A streaming platform for indie and classic films.",
+        "tags": ["media", "streaming", "films"]
+      },
+      {
+        "name": "Synergie Media",
+        "description": "A digital marketing agency focused on content and design.",
+        "tags": ["marketing", "content", "design"]
+      },
+      {
+        "name": "Green Basti Ecosystems",
+        "description": "A startup promoting eco-friendly urban farming solutions.",
+        "tags": ["environment", "urban farming", "sustainability"]
+      },
+      {
+        "name": "HostNine",
+        "description": "A global web hosting service for personal and business websites.",
+        "tags": ["web hosting", "business", "tech"]
+      },
+      {
+        "name": "Thomas Publishing",
+        "description": "A B2B platform connecting industrial buyers and suppliers.",
+        "tags": ["B2B", "industrial", "suppliers"]
+      },
+      {
+        "name": "Vetter Idea Management System",
+        "description": "A platform for teams to collect and manage innovation ideas.",
+        "tags": ["innovation", "team collaboration", "management"]
+      },
+      {
+        "name": "ChatRandom",
+        "description": "A video chat service that connects users with strangers worldwide.",
+        "tags": ["social", "video chat", "networking"]
+      },
+      {
+        "name": "ScapadasAmorosas",
+        "description": "A romantic getaway planner for couples.",
+        "tags": ["travel", "romantic", "planning"]
+      },
+      {
+        "name": "dimension5 labs",
+        "description": "A tech lab exploring AR, VR, and mixed reality experiences.",
+        "tags": ["tech", "AR", "VR", "mixed reality"]
+      },
+      {
+        "name": "FriendFeed",
+        "description": "A social media aggregator to follow updates from multiple platforms.",
+        "tags": ["social media", "aggregator", "platforms"]
+      },
+      {
+        "name": "Whooligan",
+        "description": "A digital brand curating music and streetwear culture.",
+        "tags": ["music", "streetwear", "culture"]
+      },
+      {
+        "name": "PoetryVisualized.com",
+        "description": "A platform showcasing poetry through short films and visuals.",
+        "tags": ["art", "poetry", "films"]
+      },
+      {
+        "name": "moviestring.com",
+        "description": "A service offering curated movie playlists and reviews.",
+        "tags": ["media", "movies", "reviews"]
+      },
+      {
+        "name": "The Adory",
+        "description": "A marketplace for handcrafted and personalized gifts.",
+        "tags": ["ecommerce", "gifts", "personalized"]
+      },
+      {
+        "name": "Mobclix",
+        "description": "A mobile advertising network for app monetization and analytics.",
+        "tags": ["mobile", "advertising", "analytics"]
+      },
+      {
+        "name": "Fitbit",
+        "description": "A wearable technology brand focused on health and fitness tracking.",
+        "tags": ["wearable", "health", "fitness"]
+      },
+      {
+        "name": "MTPV",
+        "description": "A startup developing thermophotovoltaic energy conversion systems.",
+        "tags": ["energy", "renewable", "technology"]
+      },
+      {
+        "name": "Camcorder-batteries.us",
+        "description": "An online store for camera and camcorder batteries.",
+        "tags": ["ecommerce", "electronics", "camera"]
+      },
+      {
+        "name": "Paydirt",
+        "description": "A time tracking and invoicing tool for freelancers and agencies.",
+        "tags": ["productivity", "freelancers", "invoicing"]
+      },
+      {
+        "name": "Wreally",
+        "description": "A productivity suite including transcription and outlining tools.",
+        "tags": ["productivity", "tools", "transcription"]
+      }
+    ]
+  }
+  
