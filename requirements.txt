@@ -10,3 +10,4 @@ matplotlib
 python-dotenv
 cohere
 xhtml2pdf
+streamlit_lottie
