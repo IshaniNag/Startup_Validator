@@ -1,5 +1,4 @@
-#Startup Validator
-🚀 Startup Validator
+# 🚀 Startup Validator
 Your First Step Towards Building a Viable Startup.
 
 The Startup Validator is an AI-powered web application designed to help early-stage founders, students, and ideators validate their startup concepts instantly and intelligently — before investing time or money.
